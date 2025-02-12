@@ -20,7 +20,7 @@ function mystery(n) {
 }
 
 biggercount = 0;
-console.log(mystery(3) + "\n"); //3
+console.log(mystery(4) + "\n"); //3
 biggercount = 0;
 console.log(mystery(9) + "\n"); //9
 biggercount = 0;

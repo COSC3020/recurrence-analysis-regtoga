@@ -50,7 +50,13 @@ Recurance relation:
 T(n) = 
 {
     1 if n <= 1
-    n^5 + 3*t(n/3)
+    n^5 + 3*t(n/3) if n > 1
 }
+
+![alt text](Temp.png)
+
+my new work is in the photo above.
+
+
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
